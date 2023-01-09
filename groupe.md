@@ -3,8 +3,8 @@ François Brias
 Jordan
 
 GP2
-Jules 
-Amelus
+
+Amelus Paul (probleme de travail et comportement)
 
 GP3
 Domaio
@@ -21,6 +21,7 @@ Lea
 GP6
 Lorenzo 
 Marty
+Jules
 
 GP7
 Nicolas 
